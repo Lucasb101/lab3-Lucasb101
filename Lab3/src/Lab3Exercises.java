@@ -7,5 +7,6 @@ public class Lab3Exercises {
 		myFrame.setLocation(800, 500);
 		myFrame.setSize(400, 100);
 		myFrame.setVisible(true);
+		
 	}
 }
